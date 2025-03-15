@@ -1,6 +1,5 @@
 
 
-# Jakub there
 Hello, I am Jakub Legemza. I enjoy solving puzzles, and my current objective is to become a SOC (Security Operations Center) Analyst.
 
 # Header 1
