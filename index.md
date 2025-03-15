@@ -1,12 +1,7 @@
 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Jakub there
+Hello, I am Jakub Legemza. I enjoy solving puzzles, and my current objective is to become a SOC (Security Operations Center) Analyst.
 
 # Header 1
 
