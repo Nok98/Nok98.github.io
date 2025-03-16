@@ -14,7 +14,7 @@ I regularly practice on platforms like TryHackMe and HackTheBox. Here are my wri
 
 **Full Writeups Repository:**
 
-## Certifications & Learning
+## Certifications
 - **CompTIA Security+ (In Progress)**
 
 ## Self-Learning
