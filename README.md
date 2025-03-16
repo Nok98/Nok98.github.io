@@ -8,8 +8,8 @@ I am eager to learn as much as I can about cybersecurity, especially because I a
 Here are some of my cybersecurity-related projects:
 
 
-## TryHackMe & CTF Writeups
-I regularly practice on platforms like TryHackMe and HackTheBox. Here are my writeups:
+## TryHackMe
+
 
 
 **Full Writeups Repository:**
