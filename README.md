@@ -19,7 +19,7 @@ Here are some of my cybersecurity-related projects:
 
 ## Self-Learning
 - **TryHackMe - https://tryhackme.com/p/Nokk98**
-- **CCNA Networking**
+- **CCNA 200-301 course**
 
 
 
