@@ -8,6 +8,7 @@ I am eager to learn as much as I can about cybersecurity, especially because I a
 Here are some of my cybersecurity-related projects:
 
 ![Cisco Packet Tracer - Basic Networking Lab](https://github.com/Nok98/networking-labs/blob/main/README.md)
+![wireshark - lab](https://github.com/Nok98/Wireshark/blob/main/README.md)
 
 
 ## TryHackMe
