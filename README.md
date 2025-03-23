@@ -21,7 +21,7 @@ Here are some of my cybersecurity-related projects:
 
 ## Certifications & Courses
 - **CompTIA Security+ (In Progress)**
-- **FREE CCNA 200-301 // Complete Course //**
+- **FREE CCNA 200-301: https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&si=_El20T5N4R7DPTJL**
 - **Pre Security cert THM: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DYJMGUTJRX.pdf**
 
 
