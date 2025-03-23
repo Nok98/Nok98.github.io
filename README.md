@@ -15,6 +15,7 @@ Here are some of my cybersecurity-related projects:
 
 
 ## TryHackMe
+Pre Security cert: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DYJMGUTJRX.pdf
 
 
 
