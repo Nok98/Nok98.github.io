@@ -15,13 +15,11 @@ Here are some of my cybersecurity-related projects:
 
 
 ## TryHackMe
-- **TryHackMe - https://tryhackme.com/p/Nokk98**
+**TryHackMe - https://tryhackme.com/p/Nokk98**
 
 Pre Security cert: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DYJMGUTJRX.pdf
 
 
-
-**Full Writeups Repository:**
 
 ## Certifications
 - **CompTIA Security+ (In Progress)**
