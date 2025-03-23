@@ -17,16 +17,12 @@ Here are some of my cybersecurity-related projects:
 ## TryHackMe
 **TryHackMe Profile - https://tryhackme.com/p/Nokk98**
 
-Pre Security cert: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DYJMGUTJRX.pdf
 
 
-
-## Certifications
+## Certifications & Courses
 - **CompTIA Security+ (In Progress)**
-
-## Self-Learning
-
-- **CCNA 200-301 course**
+- **FREE CCNA 200-301 // Complete Course //**
+- **Pre Security cert THM: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DYJMGUTJRX.pdf**
 
 
 
